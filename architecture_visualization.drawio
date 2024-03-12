@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-12T17:37:39.246Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="n2JF74sExg6781TSUsi-" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T17:38:23.237Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="FmAeWGK082mOxGeQLTc3" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="875" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,7 +223,7 @@
           <mxGeometry x="1168.75" y="2196.25" width="45.75" height="45.75" as="geometry" />
         </mxCell>
         <mxCell id="qr3SOnjhffkNYVUBnApG-5" value="NAT Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1169" y="2254" width="60" height="30" as="geometry" />
+          <mxGeometry x="1161.88" y="2264" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="T7SPrW-dqGTVtdxraVnY-3" value="CloudWatch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="276.5" y="475.75" width="60" height="30" as="geometry" />
@@ -328,16 +328,6 @@
         </mxCell>
         <mxCell id="UGcPJHBZeNHbL97DOr6g-35" value="0.0.0.0/0: NAT Gateway" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="UGcPJHBZeNHbL97DOr6g-31" vertex="1">
           <mxGeometry y="110" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lnyuCBkIAs9aE0o8Gp-h-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;entryX=0.767;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" parent="_vopK-eWFFhWHjTZmwqj-56" target="vzQaGf65uE5btSv7FSXL-1" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="142" y="230" as="sourcePoint" />
-            <mxPoint x="232" y="230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="230" />
-              <mxPoint x="290" y="230" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="UGcPJHBZeNHbL97DOr6g-12" value="Route table" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="1225" y="1170" width="180" height="104" as="geometry" />
@@ -471,6 +461,18 @@
         </mxCell>
         <mxCell id="UGcPJHBZeNHbL97DOr6g-25" value="0.0.0.0/0: NAT Gateway" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="UGcPJHBZeNHbL97DOr6g-22" vertex="1">
           <mxGeometry y="110" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lnyuCBkIAs9aE0o8Gp-h-21" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;entryX=0.767;entryY=0.552;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1030" y="1390" as="sourcePoint" />
+            <mxPoint x="1216.6500000000005" y="889.8560000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1030" y="1390" />
+              <mxPoint x="1030" y="1200" />
+              <mxPoint x="1072" y="1200" />
+              <mxPoint x="1072" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
