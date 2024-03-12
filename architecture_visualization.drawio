@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-12T19:17:25.097Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="T2SpvX_Nr0BEL2jxWUqz" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T19:18:19.130Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6SSDmDYd7Fzjbr75OjYc" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -194,16 +194,6 @@
         </mxCell>
         <mxCell id="9-chp6sOGLAYDW4qoh2o-10" value="Site-to-Site VPN" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2117" y="1466" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="UGcPJHBZeNHbL97DOr6g-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="UGcPJHBZeNHbL97DOr6g-42" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1742" y="1571.5" as="targetPoint" />
-            <mxPoint x="1790" y="1460" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1780" y="1460" />
-              <mxPoint x="2072" y="1460" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="9-chp6sOGLAYDW4qoh2o-19" value="Transit Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1696.5" y="1475" width="91" height="30" as="geometry" />
@@ -538,6 +528,12 @@
         </mxCell>
         <mxCell id="AhFn4So7FGTN8LzCQj3h-9" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.ids;" vertex="1" parent="1">
           <mxGeometry x="1527" y="1054.25" width="46" height="35.5" as="geometry" />
+        </mxCell>
+        <mxCell id="r90YDfes58XCLwIJY_du-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="1780" y="1449.75" as="sourcePoint" />
+            <mxPoint x="2080" y="1830" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
