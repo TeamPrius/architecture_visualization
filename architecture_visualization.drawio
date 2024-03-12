@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-12T14:38:40.190Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7uddIfhCAXazhRrl_9Wl" version="24.0.5" type="github">
+<mxfile modified="2024-03-12T14:43:24.001Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RWZWGv-kv6LLHfFLpUU2" version="24.0.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -304,9 +304,6 @@
         </mxCell>
         <mxCell id="9-chp6sOGLAYDW4qoh2o-19" value="Transit Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3003.5" y="1310.5" width="91" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vzQaGf65uE5btSv7FSXL-16" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="940" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="c00_feuz15YNpHNl2_Tp-1" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
