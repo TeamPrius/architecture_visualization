@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-12T14:45:19.794Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="g42OXJGC9tsYzjXgWnW9" version="24.0.5" type="github">
+<mxfile modified="2024-03-12T14:45:48.656Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Zw3UOewnvHWmXxzJZbQH" version="24.0.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1909" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,11 +198,6 @@
         </mxCell>
         <mxCell id="BpBYxWsEgWOec-O729RD-16" value="Customer Gateway" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="4922" y="567" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="vzQaGf65uE5btSv7FSXL-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="WqzEthpVbEl864bcy6q5-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="879.5" y="590" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="yZNJpXMUigSXoDdHdBbW-8" value="" style="whiteSpace=wrap;html=1;fillColor=none;&#xa;fontcolor=#000000;strokeColor=#288B22;" parent="1" vertex="1">
           <mxGeometry x="3360" y="3000" width="2323.5" height="1454" as="geometry" />
