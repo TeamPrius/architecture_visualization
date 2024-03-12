@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-12T19:15:12.005Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0UW3Tt00q_gn-shNAQ48" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T19:16:23.994Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wU7C3TvfCpBlsWvOH7v7" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -234,7 +234,7 @@
           <mxGeometry x="276.5" y="475.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J0Anm2wVRZWSizN5jyIW-8" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" parent="1" vertex="1">
-          <mxGeometry x="1506.5" y="1412.5" width="53.5" height="53.5" as="geometry" />
+          <mxGeometry x="1505" y="1392.25" width="57.5" height="57.5" as="geometry" />
         </mxCell>
         <mxCell id="pNjoqOe6NszskHDZ3-SD-15" value="" style="sketch=0;points=[[0.015,0.015,0],[0.985,0.015,0],[0.985,0.985,0],[0.015,0.985,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalLabelPosition=bottom;html=1;verticalAlign=top;aspect=fixed;align=center;pointerEvents=1;shape=mxgraph.cisco19.rect;prIcon=vpn_concentrator;fillColor=#FAFAFA;strokeColor=#005073;" parent="1" vertex="1">
           <mxGeometry x="2429" y="1411.5" width="64" height="50" as="geometry" />
@@ -399,7 +399,8 @@
             <mxPoint x="1066.848" y="2266.87" as="sourcePoint" />
             <mxPoint x="1500" y="1460" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1468.65" y="2266.52" />
+              <mxPoint x="1469" y="2267" />
+              <mxPoint x="1469" y="1456" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -438,7 +439,7 @@
           <mxGeometry y="80" width="173" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UGcPJHBZeNHbL97DOr6g-60" value="Internet Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1505" y="1480" width="90" height="30" as="geometry" />
+          <mxGeometry x="1488.75" y="1362.25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UGcPJHBZeNHbL97DOr6g-61" value="Internet Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1980" y="1928" width="90" height="30" as="geometry" />
