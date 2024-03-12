@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-12T19:44:28.465Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="W1VH4tj8cWwS1fvEHGQD" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T19:46:46.533Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="EGVNWOc4XB1pP2sgWcTZ" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1313" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2100" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -509,30 +509,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AhFn4So7FGTN8LzCQj3h-6" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1437" y="1071.38" as="sourcePoint" />
-            <mxPoint x="1507" y="1071.38" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AhFn4So7FGTN8LzCQj3h-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1390" y="2267" as="sourcePoint" />
-            <mxPoint x="1390" y="2377" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AhFn4So7FGTN8LzCQj3h-8" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.ids;" parent="1" vertex="1">
-          <mxGeometry x="1370" y="2390" width="46" height="35.5" as="geometry" />
-        </mxCell>
-        <mxCell id="AhFn4So7FGTN8LzCQj3h-9" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.ids;" parent="1" vertex="1">
-          <mxGeometry x="1516.5" y="1057.25" width="46" height="35.5" as="geometry" />
-        </mxCell>
-        <mxCell id="XqntoMy1hmnFwXWMfa3v-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1630" y="1435" as="sourcePoint" />
-            <mxPoint x="1630" y="1380" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r90YDfes58XCLwIJY_du-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="1780" y="1449.75" as="sourcePoint" />
@@ -540,7 +516,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XqntoMy1hmnFwXWMfa3v-2" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.ids;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="1340" width="46" height="35.5" as="geometry" />
+          <mxGeometry x="1590" y="1370" width="46" height="35.5" as="geometry" />
         </mxCell>
         <mxCell id="XqntoMy1hmnFwXWMfa3v-3" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#DD344C;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.guardduty;" vertex="1" parent="1">
           <mxGeometry x="380" y="367" width="103" height="103" as="geometry" />
@@ -548,14 +524,8 @@
         <mxCell id="XqntoMy1hmnFwXWMfa3v-4" value="Guard Duty" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="386.5" y="475.75" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XqntoMy1hmnFwXWMfa3v-5" value="IDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1513" y="1105" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XqntoMy1hmnFwXWMfa3v-6" value="IDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1610" y="1310" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XqntoMy1hmnFwXWMfa3v-7" value="IDS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1363" y="2430" width="60" height="30" as="geometry" />
+          <mxGeometry x="1583" y="1332.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEBMgSqekcZc_XaqgkPH-1" value="Internet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2673" y="1050" width="60" height="30" as="geometry" />
