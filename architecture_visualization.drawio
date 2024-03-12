@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-12T17:54:15.721Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="unZtBchnVbH1gNSwFZgl" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T17:57:29.794Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Emlo-RYOyLBcdnREmXmo" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1235" dy="666" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="280" y="1695.38" width="1200" height="643.25" as="geometry" />
         </mxCell>
         <mxCell id="_vopK-eWFFhWHjTZmwqj-64" value="Private subnet 3: 10.0.5.0/24" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="1832" width="290" height="368" as="geometry" />
+          <mxGeometry x="730" y="1832" width="280" height="368" as="geometry" />
         </mxCell>
         <mxCell id="aXUGpKT1LmL-tA3LFuKk-49" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="_vopK-eWFFhWHjTZmwqj-64" vertex="1">
           <mxGeometry x="80" y="68" width="150" height="200" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry x="1250" y="1110.75" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_vopK-eWFFhWHjTZmwqj-63" value="Private subnet 1: 10.0.2.0/24" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#00A4A6;fillColor=#E6F6F7;verticalAlign=top;align=left;spacingLeft=30;fontColor=#147EBA;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="740" y="740" width="240" height="390" as="geometry" />
+          <mxGeometry x="740" y="740" width="260" height="390" as="geometry" />
         </mxCell>
         <mxCell id="aXUGpKT1LmL-tA3LFuKk-19" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="_vopK-eWFFhWHjTZmwqj-63" vertex="1">
           <mxGeometry x="55" y="56.5" width="150" height="200" as="geometry" />
