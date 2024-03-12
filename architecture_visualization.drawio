@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-12T14:08:47.702Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="wAvhbGz1P1i5twbOBABX" version="24.0.5" type="github">
+<mxfile modified="2024-03-12T14:21:34.923Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="VWSU7lCrhreL0-gplseQ" version="24.0.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -286,6 +286,29 @@
         </mxCell>
         <mxCell id="9-chp6sOGLAYDW4qoh2o-10" value="Site-to-Site VPN" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2454" y="980" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9-chp6sOGLAYDW4qoh2o-17" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="2560" y="949.5" as="sourcePoint" />
+            <mxPoint x="2820" y="949.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2607" y="949.5" />
+              <mxPoint x="2607" y="949.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-chp6sOGLAYDW4qoh2o-18" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="2090" y="950" as="sourcePoint" />
+            <mxPoint x="2400" y="949.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2187" y="949.5" />
+              <mxPoint x="2187" y="949.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9-chp6sOGLAYDW4qoh2o-19" value="Transit Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1983.5" y="980" width="91" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
