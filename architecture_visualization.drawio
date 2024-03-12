@@ -1,13 +1,13 @@
-<mxfile modified="2024-03-12T20:21:33.083Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="kx4JCveFEGivEgfSqF04" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T20:28:57.657Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="6UgAT3RQziJkN9eoFS3e" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="2625" dy="1415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="vcTuZ3jqMsLbc3zKd9Wy-5" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" parent="1" vertex="1">
-          <mxGeometry x="35" y="190" width="2965" height="2960" as="geometry" />
+          <mxGeometry x="35" y="190" width="2805" height="2960" as="geometry" />
         </mxCell>
-        <mxCell id="17VEwszW_zfc53rE97q1-1" value="Region" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" vertex="1" parent="1">
+        <mxCell id="17VEwszW_zfc53rE97q1-1" value="Region" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_region;strokeColor=#879196;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#879196;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="250" width="1600" height="2910" as="geometry" />
         </mxCell>
         <mxCell id="vcTuZ3jqMsLbc3zKd9Wy-2" value="" style="whiteSpace=wrap;html=1;fillColor=none;&#xa;fontcolor=#000000;strokeColor=#288B22;" parent="1" vertex="1">
@@ -514,7 +514,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r90YDfes58XCLwIJY_du-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" parent="1" edge="1" target="UGcPJHBZeNHbL97DOr6g-42">
+        <mxCell id="r90YDfes58XCLwIJY_du-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;endArrow=block;elbow=vertical;startArrow=block;startFill=1;endFill=1;strokeColor=#545B64;rounded=0;" parent="1" target="UGcPJHBZeNHbL97DOr6g-42" edge="1">
           <mxGeometry width="100" relative="1" as="geometry">
             <mxPoint x="1780" y="1449.75" as="sourcePoint" />
             <mxPoint x="1220" y="2370" as="targetPoint" />
