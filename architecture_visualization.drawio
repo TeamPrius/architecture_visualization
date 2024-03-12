@@ -1,4 +1,4 @@
-<mxfile modified="2024-03-12T19:31:54.741Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fCgiVCSleQTvnkHvhHsT" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T19:32:53.119Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="fd3R1kWlPYCBG6f48qHh" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -31,9 +31,6 @@
         <mxCell id="9-chp6sOGLAYDW4qoh2o-1" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="nPsVNYt-Op4VGugofKHb-3" vertex="1">
           <mxGeometry x="115" y="69" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="9-chp6sOGLAYDW4qoh2o-6" value="Internet Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nPsVNYt-Op4VGugofKHb-3" vertex="1">
-          <mxGeometry x="155" y="29" width="90" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="9-chp6sOGLAYDW4qoh2o-7" value="EC2 Instance" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nPsVNYt-Op4VGugofKHb-3" vertex="1">
           <mxGeometry x="135" y="169" width="90" height="30" as="geometry" />
         </mxCell>
@@ -42,6 +39,9 @@
         </mxCell>
         <mxCell id="aXUGpKT1LmL-tA3LFuKk-26" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.internet_gateway;" parent="nPsVNYt-Op4VGugofKHb-1" vertex="1">
           <mxGeometry x="186" y="15" width="48" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="9-chp6sOGLAYDW4qoh2o-6" value="Internet Gateway" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="nPsVNYt-Op4VGugofKHb-1" vertex="1">
+          <mxGeometry x="234" y="1" width="90" height="39" as="geometry" />
         </mxCell>
         <mxCell id="aXUGpKT1LmL-tA3LFuKk-53" value="Public subnet 2: 10.0.4.0/24" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" parent="1" vertex="1">
           <mxGeometry x="1169" y="1820" width="271" height="422" as="geometry" />
