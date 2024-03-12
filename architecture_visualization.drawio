@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-12T20:00:23.225Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="NLSjpNdKHnFKKgeVd9-k" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T20:05:47.446Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="VnbjENqlFVaZPyzEPKgT" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1750" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,6 +584,9 @@
         </mxCell>
         <mxCell id="vcTuZ3jqMsLbc3zKd9Wy-4" value="Primary Load Balancer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1090" y="1415.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vcTuZ3jqMsLbc3zKd9Wy-5" value="AWS Cloud" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_aws_cloud;strokeColor=#AAB7B8;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#AAB7B8;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="1640" height="2210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
