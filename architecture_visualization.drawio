@@ -1,6 +1,6 @@
-<mxfile modified="2024-03-12T17:57:29.794Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="Emlo-RYOyLBcdnREmXmo" version="24.0.5" type="github" pages="2">
+<mxfile modified="2024-03-12T17:58:59.146Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="t1hySf2ROGLkwc9D1myt" version="24.0.5" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
-    <mxGraphModel dx="1500" dy="809" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1909" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="730" y="1832" width="280" height="368" as="geometry" />
         </mxCell>
         <mxCell id="aXUGpKT1LmL-tA3LFuKk-49" value="Security group" style="fillColor=none;strokeColor=#DD3522;verticalAlign=top;fontStyle=0;fontColor=#DD3522;whiteSpace=wrap;html=1;" parent="_vopK-eWFFhWHjTZmwqj-64" vertex="1">
-          <mxGeometry x="80" y="68" width="150" height="200" as="geometry" />
+          <mxGeometry x="80" y="68" width="130" height="192" as="geometry" />
         </mxCell>
         <mxCell id="vzQaGf65uE5btSv7FSXL-1" value="Availability Zone # 1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="557" width="1200" height="603" as="geometry" />
@@ -506,7 +506,7 @@
             <mxPoint x="1030" y="2040" as="sourcePoint" />
             <mxPoint x="1020" y="1490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="2000" />
+              <mxPoint x="960" y="1996" />
               <mxPoint x="960" y="1840" />
               <mxPoint x="960" y="1670" />
               <mxPoint x="960" y="1550" />
