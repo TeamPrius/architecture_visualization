@@ -1,13 +1,13 @@
-<mxfile modified="2024-03-12T14:36:55.813Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jCbp0giVsXLU6U8gt1dO" version="24.0.5" type="github">
+<mxfile modified="2024-03-12T14:38:40.190Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7uddIfhCAXazhRrl_9Wl" version="24.0.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1279" dy="572" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vzQaGf65uE5btSv7FSXL-3" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vzQaGf65uE5btSv7FSXL-3" value="Availability Zone # 2" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="1380" width="1200" height="643.25" as="geometry" />
         </mxCell>
-        <mxCell id="vzQaGf65uE5btSv7FSXL-1" value="Availability Zone" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="vzQaGf65uE5btSv7FSXL-1" value="Availability Zone # 1" style="fillColor=none;strokeColor=#147EBA;dashed=1;verticalAlign=top;fontStyle=0;fontColor=#147EBA;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="557" width="1200" height="603" as="geometry" />
         </mxCell>
         <mxCell id="nPsVNYt-Op4VGugofKHb-1" value="On-Prem Network" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_corporate_data_center;strokeColor=#7D8998;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#5A6C86;dashed=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" parent="1" vertex="1">
@@ -317,12 +317,6 @@
               <mxPoint x="3165" y="1269.5" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="vzQaGf65uE5btSv7FSXL-18" value="Availability Zone 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="280" y="557" width="220" height="81" as="geometry" />
-        </mxCell>
-        <mxCell id="vzQaGf65uE5btSv7FSXL-19" value="&lt;div&gt;Availability Zone 2&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="280" y="1380" width="220" height="81" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
